@@ -1,0 +1,5 @@
+{
+    "debug.console.wordWrap": false,
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on"
+}
